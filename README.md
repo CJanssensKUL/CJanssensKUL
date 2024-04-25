@@ -3,7 +3,7 @@
 - 🔭 I'm a postdoctoral researcher in agricultural economics at KU Leuven.
 - 🌱 I work with R, GAMS and STATA and I am currently learning python. 
 - 📫 How to reach me: charlotte.janssens@kuleuven.be
-- 
+  
 <!--
 **CJanssensKUL/CJanssensKUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
