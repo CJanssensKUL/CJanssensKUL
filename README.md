@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a postdoctoral researcher in agricultural economics at KU Leuven.
-- 🌱 I work with R, GAMS and STATA and I am currently learning python. 
+- 🌱 I work with R, GAMS, and STATA and I am learning python. 
 - 📫 How to reach me: charlotte.janssens@kuleuven.be
   
 <!--
